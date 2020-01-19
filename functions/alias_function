@@ -1,0 +1,4 @@
+# this is an example function
+# running 'alias_function' in a zsh session will execute the code below
+
+print "alias_function"
